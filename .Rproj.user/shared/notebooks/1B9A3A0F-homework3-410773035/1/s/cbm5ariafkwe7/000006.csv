@@ -1,0 +1,7 @@
+"0","as.data.frame(only1LossCompanies) -> subsample"
+"0","class(subsample)"
+"1","[1]"
+"1"," ""data.frame"""
+"1","
+"
+"0","subsample"

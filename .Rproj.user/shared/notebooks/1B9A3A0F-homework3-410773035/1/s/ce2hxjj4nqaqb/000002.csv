@@ -1,0 +1,5 @@
+"0","library(readr)"
+"0","finStatement <- read_csv(""http://mopsfin.twse.com.tw/opendata/t187ap06_O_ci.csv"")"
+"2","Error in open.connection(con, ""rb"") : 
+  Failed to connect to mopsfin.twse.com.tw port 80: Connection refused
+"
